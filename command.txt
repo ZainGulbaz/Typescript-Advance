@@ -1,0 +1,7 @@
+
+---> How to intialize typescript
+npx tsc --init --rootdir src --outdir lib
+
+
+
+
