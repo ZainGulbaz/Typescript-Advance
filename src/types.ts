@@ -13,3 +13,5 @@ const away:Point={
     x:2,
     y:6
 }
+
+export={};
