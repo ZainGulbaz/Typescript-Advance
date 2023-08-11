@@ -37,3 +37,5 @@ let cat = new Animal("cat");
 
 console.log(cat.name);
 // cat.name="sdadass";
+
+export {}
