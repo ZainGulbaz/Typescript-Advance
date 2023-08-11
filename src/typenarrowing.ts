@@ -47,6 +47,7 @@ type Rectangle={
 
 
 const showShape=(geometry:Square|Rectangle)=>{
+    
     if("height" in geometry)
     {
          console.log("Rectangle");
