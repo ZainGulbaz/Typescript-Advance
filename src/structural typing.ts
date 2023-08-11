@@ -47,3 +47,5 @@ let order:Order={
 
 order=product; //Error
 product=order; //No Error
+
+export {}

@@ -22,3 +22,5 @@ dog.move(2);
 let sparrow:Bird= new Bird("Sparrow");
 sparrow.move(3);
 sparrow.move(10);
+
+export{};

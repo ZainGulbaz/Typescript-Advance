@@ -13,3 +13,5 @@ console.log(Object.getOwnPropertySymbols(obj));
 
 let namee2=Symbol("name");
 console.log(namee==namee2);
+
+export{}
