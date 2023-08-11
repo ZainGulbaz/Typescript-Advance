@@ -23,3 +23,5 @@ let biggy:bigint=20n;
 
 
 //There are sevent permitive types in typescript and every starts with small letter as they are permitive
+
+export {};
