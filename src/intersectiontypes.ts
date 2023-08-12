@@ -21,3 +21,5 @@ contact({
     phonenumber:"+923364317217",
     email:"zaingulbaz8@gmail.com"
 });
+
+export {}
