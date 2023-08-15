@@ -58,6 +58,7 @@ const showShape=(geometry:Square|Rectangle)=>{
     }
 
 }
+export {}
 
 
 showShape({width:100})

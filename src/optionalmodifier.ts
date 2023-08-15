@@ -15,3 +15,5 @@ class Animal{
 let dogy= new Animal();
 
 console.log(dogy.name);
+
+export {}
