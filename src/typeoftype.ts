@@ -5,6 +5,7 @@ const center={
 type Point= typeof center;
 
 
+
 const point:Point={
     x:2,
     y:3,
